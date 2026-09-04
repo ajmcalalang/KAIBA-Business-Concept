@@ -42,3 +42,5 @@ To provide an engaging solution for people who struggle with decision-making by 
 ## Project Showcase
 
 ![KAIBA: Kahit Ano, Ikaw Bahala](kaiba-showcase.png)
+![KAIBA: Kahit Ano, Ikaw Bahala](kaiba-showcase1.png)
+![KAIBA: Kahit Ano, Ikaw Bahala](kaiba-showcase2.png)
